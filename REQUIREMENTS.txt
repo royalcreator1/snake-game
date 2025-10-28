@@ -1,0 +1,16 @@
+# No external dependencies required
+# The game uses only Python standard library modules:
+# - tkinter (GUI)
+# - sqlite3 (Database)
+
+# If tkinter is not available, install it:
+
+# Ubuntu/Debian:
+# sudo apt-get install python3-tk
+
+# macOS (with Homebrew):
+# brew install python-tk
+
+# Windows:
+# Usually comes pre-installed with Python
+
