@@ -1,7 +1,6 @@
 # Nokia Snake Game
 
 **First app made with Cursor AI Assistant in just 5 minutes! 🚀**  
-*1 min for development, 4 min configuring git access, and about 15 min to understand what was created. This is what happens when you combine fun nostalgia with intelligent code generation.*
 
 A retro-style Snake game with a Nokia phone interface, complete with leaderboard tracking and score persistence.
 
